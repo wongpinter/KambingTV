@@ -116,8 +116,8 @@ lib/
 
 1. **Clone repository**:
    ```bash
-   git clone https://github.com/your-repo/opentv.git
-   cd opentv
+   git clone https://github.com/wongpinter/KambingTV.git
+   cd KambingTV
    ```
 
 2. **Install dependencies**:
