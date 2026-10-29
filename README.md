@@ -162,6 +162,16 @@ flutter analyze
 
 ---
 
+## 🙏 Acknowledgments & Sources
+
+Special thanks to the following open-source projects and stream directories:
+
+* **[dhasap/dhanytv](https://github.com/dhasap/dhanytv)** — For the initial channel catalog inspiration and Indonesian streaming feeds.
+* **[iptv-org/iptv](https://github.com/iptv-org/iptv)** — For the comprehensive global public IPTV playlist and international broadcasting sources.
+* **[ge.m3uiptv.com](https://ge.m3uiptv.com/epg-tv-xml/)** — For the multi-country XMLTV EPG schedule directory.
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
